@@ -6,7 +6,7 @@ Version control helps maintain project integrity by:
 Tracking changes
 Managing versions
 Enabling collaboration
-Maintaining history
+Maintaining history 
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 ANS; Setting up a new repository on GitHub involves:
